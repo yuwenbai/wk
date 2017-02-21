@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2965454652
+CRC: 1083595581
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 317eab6b77238b9d6e5015675d6edc53
+    Hash: 28b44c8a58ad126767188d687d4d791c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4d90e579baa648a406b7df4d756b75b6
+    Hash: e3f8c27ca041d4b2fd6fc6f3c54f94d2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -15,16 +15,28 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
-- Class: 23
-  Script: {instanceID: 0}
-- Class: 33
-  Script: {instanceID: 0}
-- Class: 43
+- Class: 28
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 65
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
   Script: {instanceID: 0}
 Assets:
+- Assets/LuaFramework/Examples/Prefeb/Tank/Panel1.prefab
 - Assets/LuaFramework/Examples/Prefeb/Tank/Tank.prefab
-Dependencies: []
+Dependencies:
+- D:/GitHub_Repositories/wk/LuaFramework_UGUI-master/Assets/StreamingAssets/prompt_asset.unity3d

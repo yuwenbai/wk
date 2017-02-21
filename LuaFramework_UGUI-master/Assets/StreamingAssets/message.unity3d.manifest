@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1649531644
+CRC: 3331089049
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4a387e3ccddb476c22a35568feee15f2
+    Hash: 90fa1f47123231d8651a97af67e4c3b7
   TypeTreeHash:
     serializedVersion: 2
     Hash: d4468eb27d65f04b2bf6459158a8fd8d
@@ -40,4 +40,4 @@ ClassTypes:
 Assets:
 - Assets/LuaFramework/Examples/Builds/Message/MessagePanel.prefab
 Dependencies:
-- /Users/zhaojinyu/Documents/Unity/wk/LuaFramework_UGUI-master/Assets/StreamingAssets/shared_asset.unity3d
+- D:/GitHub_Repositories/wk/LuaFramework_UGUI-master/Assets/StreamingAssets/shared_asset.unity3d

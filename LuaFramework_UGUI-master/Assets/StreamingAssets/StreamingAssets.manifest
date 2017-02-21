@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3905987801
+CRC: 1868251866
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -19,4 +19,5 @@ AssetBundleManifest:
       Dependencies: {}
     Info_4:
       Name: tank.unity3d
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: prompt_asset.unity3d
