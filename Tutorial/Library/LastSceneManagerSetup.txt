@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/TestLoad.unity
+- path: Assets/Scenes/modlecontrol.unity
   isLoaded: 1
   isActive: 1
